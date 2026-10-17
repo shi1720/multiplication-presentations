@@ -1,0 +1,27 @@
+{
+  "seed": 1720406,
+  "python": "3.9.6",
+  "platform": "macOS-27.0.1-arm64-arm-64bit",
+  "numpy": "2.0.2",
+  "scipy": "1.13.1",
+  "sympy": "1.14.0",
+  "cvxpy": "1.7.5",
+  "exact_grid": {
+    "total": 315,
+    "true_cell": 201,
+    "chain": 148,
+    "balanced": 136,
+    "union": 191,
+    "chain_only": 55,
+    "balanced_only": 43,
+    "false_positives": 0
+  },
+  "sdp_comparisons": 144,
+  "max_sdp_error": 5.149644266566611e-09,
+  "max_coefficient_residual": 2.228174866836241e-10,
+  "min_sdp_eigenvalue": -3.906931984364748e-09,
+  "optimal_inaccurate_count": 0,
+  "synthetic_cases": 205,
+  "synthetic_chain": 20,
+  "synthetic_balanced": 205
+}
