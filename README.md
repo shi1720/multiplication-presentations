@@ -6,7 +6,7 @@ Research artifact accompanying **Multiplication Presentations and Focal-Face Col
 
 For the affine moment curve `(t,t²,…,t^d)`, every recursive multiplication presentation has the same `d` variables and `d−1` quadratic equations. The paper classifies how the factor choices change the dimension of a certified exposed Voronoi face. It also proves a near-face volume-loss bound and gives counterexamples to universal dominance of balanced products.
 
-The dependence of SDP exactness on generators, the cubic example, and exactness after full quadratic closure are established results. They are credited as such. The new claim is the stated classification and its quantitative consequences for the specified family, subject to the literature boundary in the paper. This is a research manuscript, not an accepted publication.
+The dependence of SDP exactness on generators, the cubic example, and exactness after full quadratic closure are established results. They are credited as such. The new claim is the stated classification and its quantitative consequences for the specified family, subject to the literature boundary in the paper. Submitted to the Journal of Symbolic Computation on 17 October 2026; awaiting editorial assessment. This is a research manuscript, not an accepted publication.
 
 ## Reproduce
 
